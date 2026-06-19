@@ -1,8 +1,8 @@
 # Predicting Employment Outcomes Among Somali University Graduates
 
-**Author: Ali Omar Abdi**
-**Course: DS-ML Bootcamp — Assignment 2**
-**Due: Saturday, June 20, 2026 — 12:00 PM (EAT)**
+**Author: Ali Omar Abdi**                                          
+**Course: DS-ML Bootcamp — Assignment 2**                               
+**Due: Saturday, June 20, 2026 — 12:00 PM (EAT)**      
 
 ---
 
